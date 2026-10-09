@@ -1,4 +1,4 @@
-module github.com/llarhub/zlib/c
+module github.com/MeteorsLiu/zlib/c
 
 go 1.23
 
